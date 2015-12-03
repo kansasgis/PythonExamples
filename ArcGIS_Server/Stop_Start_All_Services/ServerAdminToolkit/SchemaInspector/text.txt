@@ -1,0 +1,5 @@
+*****************************************************************
+Feature Classes missing from Database Connections/cico_owner.sde/cico.GIS_OWNER.cogo:
+S011318_line
+
+
